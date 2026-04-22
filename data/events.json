@@ -1,0 +1,11 @@
+[
+    {
+      "id": "evt_001",
+      "titolo": "Festa di Primavera",
+      "descrizione": "Evento nel centro di Piossasco",
+      "data": "2026-05-10",
+      "luogo": "Piazza Tenente Nicola",
+      "immagine": "/images/evento.jpg",
+      "fonte_url": "https://..."
+    }
+  ]

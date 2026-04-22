@@ -1,0 +1,10 @@
+[
+    {
+      "id": "1",
+      "nome": "Pizzeria Demo",
+      "categoria": "Pizzeria",
+      "foto": "/images/pizzeria-demo.jpg",
+      "indirizzo_testuale": "Via Roma 10, Piossasco",
+      "maps_url": "https://maps.google.com/"
+    }
+  ]
