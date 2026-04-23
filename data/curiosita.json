@@ -1,0 +1,20 @@
+[
+  {
+    "id": "cur_001",
+    "titolo": "Un paese ai piedi del monte",
+    "testo": "Piossasco vive da sempre un rapporto stretto con il suo paesaggio e con il rilievo che lo domina.",
+    "tema": "territorio"
+  },
+  {
+    "id": "cur_002",
+    "titolo": "Tra storia e quotidianità",
+    "testo": "Molti luoghi che oggi fanno parte della vita di tutti i giorni hanno radici molto più antiche di quanto sembri.",
+    "tema": "storia locale"
+  },
+  {
+    "id": "cur_003",
+    "titolo": "Dettagli che spesso sfuggono",
+    "testo": "Passeggiando per il paese si possono notare angoli, edifici e tracce che raccontano pezzi di storia locale.",
+    "tema": "luoghi"
+  }
+]

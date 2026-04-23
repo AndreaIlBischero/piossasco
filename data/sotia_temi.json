@@ -1,0 +1,23 @@
+[
+  {
+    "id": "tema_001",
+    "titolo": "I castelli",
+    "testo": "Questa sezione conterrà un testo scritto da te sul tema dei castelli di Piossasco.",
+    "tema": "castelli",
+    "immagine": "/images/storia/castelli.jpg"
+  },
+  {
+    "id": "tema_002",
+    "titolo": "Gli edifici storici",
+    "testo": "Questa sezione conterrà un testo scritto da te sugli edifici storici e simbolici del paese.",
+    "tema": "edifici",
+    "immagine": "/images/storia/edifici-storici.jpg"
+  },
+  {
+    "id": "tema_003",
+    "titolo": "Eventi e momenti importanti",
+    "testo": "Questa sezione conterrà un testo scritto da te sugli eventi che hanno segnato la storia locale.",
+    "tema": "eventi",
+    "immagine": "/images/storia/eventi-storici.jpg"
+  }
+]

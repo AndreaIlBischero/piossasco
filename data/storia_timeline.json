@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sto_001",
+    "anno_o_periodo": "Origini",
+    "titolo": "Le prime tracce del territorio",
+    "testo": "Questa sezione conterrà un testo scritto da te sulle origini di Piossasco.",
+    "tema": "origini",
+    "immagine": "/images/storia/origini.jpg"
+  },
+  {
+    "id": "sto_002",
+    "anno_o_periodo": "Medioevo",
+    "titolo": "La formazione del borgo",
+    "testo": "Questa sezione conterrà un testo scritto da te sul periodo medievale e sulla crescita del borgo.",
+    "tema": "medioevo",
+    "immagine": "/images/storia/medioevo.jpg"
+  },
+  {
+    "id": "sto_003",
+    "anno_o_periodo": "Età moderna",
+    "titolo": "Trasformazioni del paese",
+    "testo": "Questa sezione conterrà un testo scritto da te sui cambiamenti del paese nel tempo.",
+    "tema": "eta moderna",
+    "immagine": "/images/storia/eta-moderna.jpg"
+  }
+]

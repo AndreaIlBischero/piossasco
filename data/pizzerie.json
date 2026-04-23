@@ -1,10 +1,26 @@
 [
-    {
-      "id": "1",
-      "nome": "Pizzeria Demo",
-      "categoria": "Pizzeria",
-      "foto": "/images/pizzeria-demo.jpg",
-      "indirizzo_testuale": "Via Roma 10, Piossasco",
-      "maps_url": "https://maps.google.com/"
-    }
-  ]
+  {
+    "id": "pz_001",
+    "nome": "Pizzeria del Centro",
+    "categoria": "Pizzeria",
+    "foto": "/images/pizzerie/pizzeria-centro.jpg",
+    "indirizzo_testuale": "Via Roma 12, Piossasco",
+    "maps_url": "https://maps.google.com/"
+  },
+  {
+    "id": "pz_002",
+    "nome": "La Ruota",
+    "categoria": "Pizzeria",
+    "foto": "/images/pizzerie/la-ruota.jpg",
+    "indirizzo_testuale": "Via Torino 8, Piossasco",
+    "maps_url": "https://maps.google.com/"
+  },
+  {
+    "id": "pz_003",
+    "nome": "Forno di Sera",
+    "categoria": "Pizzeria",
+    "foto": "/images/pizzerie/forno-di-sera.jpg",
+    "indirizzo_testuale": "Via Pinerolo 21, Piossasco",
+    "maps_url": "https://maps.google.com/"
+  }
+]
